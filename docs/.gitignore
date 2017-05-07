@@ -1,6 +1,4 @@
-_site/*
-!_site/assets/bus/*
-
+_site
 .sass-cache
 .jekyll-metadata
 

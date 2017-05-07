@@ -8,4 +8,4 @@ tags: [SS-17, FoSAP]
 
 Die erste Abgabe in FoSAP.
 
-[Uebungsblatt 1](/assets/fosap/uebungsblatt1.pdf)
+[Uebungsblatt 1]({{ site.baseurl }}/assets/fosap/uebungsblatt1.pdf)
