@@ -1,16 +1,9 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
+permalink: /categories/
+title: Categories
 ---
-On this website we ([Adrian](mailto:adrian.hinrichs@rwth-aachen.de)
-und
-[Georg](mailto:georg.dorndorf@rwth-aachen.de)) publish all PDFs we create during our studies in Computer Science at RWTH-Aachen.
 
-Currently available are:
-
-## SS 2017
 <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
