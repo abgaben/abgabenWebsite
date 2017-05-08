@@ -24,7 +24,7 @@ github_username:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-leap-day
+theme: minima
 gems:
   - jekyll-feed
 include: ['_pages']
