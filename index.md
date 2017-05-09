@@ -5,8 +5,10 @@
 layout: page
 ---
 On this website we ([Adrian](mailto:adrian.hinrichs@rwth-aachen.de)
-und
+and
 [Georg](mailto:georg.dorndorf@rwth-aachen.de)) publish all PDFs we create during our studies in Computer Science at RWTH-Aachen.
+
+All solutions may be incomplete and/or wrong. If not noted otherwise, the PDFs are not corrected.
 
 Currently available are:
 
