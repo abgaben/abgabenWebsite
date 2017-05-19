@@ -11,7 +11,7 @@ excerpt_separator: ""
     {% for post in site.posts %}
     <article class="archive-item">
     <p>
-      <h4>{{ post.date | date_to_string  }} </h4> 
+      <b><h4>{{ post.date | date_to_string  }} </h4></b>
       {{ post.content }}
     </p>
     </article>
