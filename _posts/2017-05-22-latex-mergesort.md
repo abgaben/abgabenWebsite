@@ -7,8 +7,18 @@ tags: [LaTeX]
 ---
 
 LaTeX-Schnipsel zur Visualisierung von Sortierungsalgorithmen
-(z.B. Aufgabe 5 von [DSAL Abgabe 3]({{ site.baseurl }}/dsal/2017/05/16/dsal-blatt-3.html))
+(z.B. Aufgabe 5 von [DSAL Abgabe 3]({{ site.baseurl
+}}/dsal/2017/05/16/dsal-blatt-3.html))
 
+Benötigte Pakete:
+```LaTeX
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,decorations,
+  automata,backgrounds,petri,bending,
+  shapes.multipart
+} %Eventuell sind nicht alle nötig
+\usepackage{pgf}
+```
 ```LaTeX
 \begin{tikzpicture}[ level 1/.style={sibling distance=30mm}, level
   2/.style={sibling distance=30mm}, level 3/.style={sibling
