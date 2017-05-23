@@ -10,6 +10,9 @@ Die dritte Abgabe in FoSAP.
 
 [Uebungsblatt 3]({{ site.baseurl }}/assets/fosap/uebungsblatt3.pdf)
 
+Die Implementation des in Aufgabe 6 geforderten Algorithmus, der
+endliche reguläre Ausdrücke erkennt.
+
 ```Haskell
 f :: [Char] -> Bool -> Bool
 f (')':ss:s) b = b && if ss=='0' then (f ('0':s) True) else (f ('a':ss:s) True)
