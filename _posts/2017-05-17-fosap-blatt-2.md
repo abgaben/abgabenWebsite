@@ -6,6 +6,6 @@ category: FoSAP
 tags: [SS-17, FoSAP]
 ---
 
-Die erste Abgabe in FoSAP.
+Die zweite Abgabe in FoSAP.
 
 [Uebungsblatt 2]({{ site.baseurl }}/assets/fosap/uebungsblatt2.pdf)
