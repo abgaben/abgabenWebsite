@@ -11,7 +11,7 @@ Die dritte Abgabe in FoSAP.
 [Uebungsblatt 3]({{ site.baseurl }}/assets/fosap/uebungsblatt3.pdf)
 
 Die Implementation des in Aufgabe 6 geforderten Algorithmus, der
-endliche reguläre Ausdrücke erkennt.
+endliche regulÃ¤re AusdrÃ¼cke erkennt.
 
 ```Haskell
 f :: [Char] -> Bool -> Bool
