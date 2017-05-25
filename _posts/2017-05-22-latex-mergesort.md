@@ -17,7 +17,13 @@ Benötigte Pakete:
   automata,backgrounds,petri,bending,
   shapes.multipart
 } %Eventuell sind nicht alle nötig
+\tikzset{
+ array/.style = {rectangle split, rectangle split horizontal,
+ 	         draw}
+}
+
 \usepackage{pgf}
+
 ```
 ```LaTeX
 \begin{tikzpicture}[ level 1/.style={sibling distance=30mm}, level
