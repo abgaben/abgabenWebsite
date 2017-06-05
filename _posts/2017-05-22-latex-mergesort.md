@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 'LaTeX-Snippet: Mergesort'
 date: 2017-05-22 20:42:00
 category: LaTeX

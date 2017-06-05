@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 'LaTeX-Snippet: Heapsort'
 date: 2017-05-23 10:38:00
 category: LaTeX

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 'FoSAP Blatt 2'
 date: 2017-05-17 23:13:00
 category: FoSAP

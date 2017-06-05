@@ -24,7 +24,7 @@ github_username:
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-midnight
 gems:
   - jekyll-feed
 
