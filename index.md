@@ -5,8 +5,8 @@
 layout: page
 ---
 Auf dieser Website veröffentlichen wir, das sind ([Adrian](mailto:adrian.hinrichs@rwth-aachen.de)
-und [Georg](mailto:georg.dorndorf@rwth-aachen.de)) alle PDFs, die während
-unseres Studiums im Fach Informatik an der RWTH Aachen, von uns
+und [Georg](mailto:georg.dorndorf@rwth-aachen.de)), alle PDFs, die während
+unseres Studiums im Fach Informatik an der RWTH Aachen von uns
 erstellt werden.
 
 Alle auf dieser Seite veröffentlichten Lösungen zu den entsprechenden
