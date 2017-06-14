@@ -4,13 +4,17 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-On this website we ([Adrian](mailto:adrian.hinrichs@rwth-aachen.de)
-and
-[Georg](mailto:georg.dorndorf@rwth-aachen.de)) publish all PDFs we create during our studies in Computer Science at RWTH-Aachen.
+Auf dieser Website veröffentlichen wir, das sind ([Adrian](mailto:adrian.hinrichs@rwth-aachen.de)
+und [Georg](mailto:georg.dorndorf@rwth-aachen.de)) alle PDFs, die während
+unseres Studiums im Fach Informatik an der RWTH Aachen, von uns
+erstellt werden.
 
-All solutions may be incomplete and/or wrong. If not noted otherwise, the PDFs are not corrected.
+Alle auf dieser Seite veröffentlichten Lösungen zu den entsprechenden
+Hausaufgaben sind möglicherweise unvollständig und/oder falsch. Falls
+es nicht anders angemerkt ist, sind die Abgaben nicht in der durch einen Tutor
+korrigierten Form hochgeladen.
 
-Currently available are:
+Aktuell sind folgende Kategorien verfügbar:
 
 ## SS 2017
 <div id="archives">
