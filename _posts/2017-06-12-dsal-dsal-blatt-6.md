@@ -9,4 +9,4 @@ tags: [SS-17, DSAL]
 
 Die sechste Abgabe in DSAL.
 
-[Uebungsblatt 6]({{ site.baseurl }}/assets/dsal/uebungsblatt6.pdf)
+[Uebungsblatt 6]({{ site.baseurl }}/assets/dsal/uebungsblatt6.pdf) ([Korrektur]({{ site.baseurl }}/assets/dsal/uebungsblatt6_korrektur.pdf))
