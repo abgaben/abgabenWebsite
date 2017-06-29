@@ -8,4 +8,4 @@ tags: [SS-17, DSAL]
 
 Abgabe 7 in Datenstrukturen und Algorithmen
 
-[Übungsblatt 7]({{ site.baseurl }}/assets/dsal/uebungsblatt7.pdf)
+[Übungsblatt 7]({{ site.baseurl }}/assets/dsal/uebungsblatt7.pdf) ([Korrektur]({{ site.baseurl }}/assets/dsal/uebungsblatt7_korrektur.pdf))
