@@ -8,4 +8,4 @@ tags: [SS-17, FoSAP]
 
 Die sechste Abagbe in FoSAP
 
-[Uebungsblatt 6]({{ site.baseurl }}/assets/fosap/uebungsblatt6.pdf) ([Korrektur]{{ site.baseurl }}/assets/fosap/uebungsblatt6_korrektur.pdf)
+[Uebungsblatt 6]({{ site.baseurl }}/assets/fosap/uebungsblatt6.pdf) ([Korrektur]({{ site.baseurl }}/assets/fosap/uebungsblatt6_korrektur.pdf))
