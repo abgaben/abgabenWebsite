@@ -8,4 +8,4 @@ tags: [SS-17, FoSAP]
 
 Abgabe 7 für den 29.06.2017 in Formale System, Automaten und Prozesse
 
-[Übungsblatt 7]({{ site.baseurl }}/assets/fosap/uebungsblatt7.pdf)
+[Übungsblatt 7]({{ site.baseurl }}/assets/fosap/uebungsblatt7.pdf) ([Korrektur]({{ site.baseurl }}/assets/fosap/uebungsblatt7_korrektur.pdf))
