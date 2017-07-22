@@ -8,4 +8,4 @@ tags: [SS-17, FoSAP]
 
 Die achte Abgabe in formale Systeme, Automaten und Prozesse.
 
-[Übungsblatt]({{ site.baseurl }}/assets/fosap/uebungsblatt8.pdf)
+[Übungsblatt]({{ site.baseurl }}/assets/fosap/uebungsblatt8.pdf) ([Korrektur]({{ site.baseurl }}/assets/fosap/uebungsblatt8_korrektur.pdf))
