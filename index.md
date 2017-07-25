@@ -24,9 +24,18 @@ Aktuell sind folgende Kategorien verfügbar:
 *Um die Übersichtlichkeit zu verbessern sind module in denen keine neuen
 Abgaben mehr hinzu kommen auf eigene Seiten ausgelagert.*
 ## SS 2017
-### [Datenstrukturen und Algorithmen]({{ site.baseurl }})
 <div id="archives">
+
 {% assign ss17 = "BuS|LA|FoSAP" | split: "|" %}
+
+  <div class="archive-group">
+    {% for post in site.categories["17SS"] %}
+    <article class="archive-item">
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h3>
+    </article>
+    {% endfor %}
+  </div>
+
 {% for category_name in ss17 %}
   <div class="archive-group">
     <div id="#{{ category_name | slugize }}"></div>
