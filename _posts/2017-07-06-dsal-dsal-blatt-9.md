@@ -7,4 +7,4 @@ tags: [SS-17, DSAL]
 ---
 
 Abgabe neun in Datenstrukturen und Algorithmen.
-[Übungsblatt 9]({{ site.baseurl }}/assets/dsal/uebungsblatt9.pdf)
+[Übungsblatt 9]({{ site.baseurl }}/assets/dsal/uebungsblatt9.pdf) ([Korrektur]({{ site.baseurl }}/assets/dsal/uebungsblatt9_korrektur.pdf))

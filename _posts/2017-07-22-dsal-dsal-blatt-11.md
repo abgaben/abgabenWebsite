@@ -8,4 +8,4 @@ tags: [SS-17, DSAL]
 
 Die elfte (und letzte) Abagbe in Datenstrukturen und Algorithmen
 
-[Übungsblatt 11]({{ site.baseurl }}/assets/dsal/uebungsblatt11.pdf)
+[Übungsblatt 11]({{ site.baseurl }}/assets/dsal/uebungsblatt11.pdf) ([Korrektur]({{ site.baseurl }}/assets/dsal/uebungsblatt11_korrektur.pdf))
