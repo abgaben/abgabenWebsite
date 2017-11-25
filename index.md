@@ -26,7 +26,7 @@ Abgaben mehr hinzu kommen auf eigene Seiten ausgelagert.*
 ## SS 2017
 <div id="archives">
 
-{% assign ss17 = "BuS|LA|FoSAP" | split: "|" %}
+{% assign ss17 = "BuS|FoSAP" | split: "|" %}
 
   <div class="archive-group">
     {% for post in site.categories["17SS"] %}
